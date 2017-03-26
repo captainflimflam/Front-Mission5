@@ -1,0 +1,238 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl layeredTexture2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl layeredTexture3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl layeredTexture4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PCSX2-R4600.EXE_0xCB0E5AA5.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PCSX2-R4600.EXE_0xCDE86C6A.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PCSX2-R4600.EXE_0xE567DD2A.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PCSX2-R4600.EXE_0x07ADDBD1.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 98.00
+newmtl phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PCSX2-R4600.EXE_0x0BA4B7DD.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PCSX2-R4600.EXE_0x46329D5A.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 98.00
+newmtl phong7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PCSX2-R5350.EXE_0x6F786C97.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 53.61
+newmtl phong9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PCSX2-R5350.EXE_0x74E0C319_1.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 98.00
+newmtl phong10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PCSX2-R5350.EXE_0xE8F81B61_1.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 98.00
+newmtl phong11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PCSX2-R5350.EXE_0x18CA6C9F_1.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 98.00
+newmtl phong12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PCSX2-R5350.EXE_0x0BA4B7DD_1.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PCSX2-R4600.EXE_0xFB7D7CB6.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.44 0.44 0.44
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 98.00
+newmtl phong15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PCSX2-R5350.EXE_0x382835F1.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PCSX2-R5350.EXE_0x6073756A_1.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 98.00
+newmtl phong19SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PCSX2-R4600.EXE_0xE2469C31.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl secblock:Stage00_phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PCSX2-R5350.EXE_0x382835F1.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl secblock:Stage00_phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PCSX2-R4600.EXE_0xC148E559.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl secblock:Stage00_phong7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PCSX2-R4600.EXE_0xDA4ADAAC.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl secblock:Stage00_phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PCSX2-R4600.EXE_0x41FE07A3.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl secblock:gsdx_20140202231615_projectionFixed:f1_o0_p2_v6SG1
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl secblock:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PCSX2-R5350.EXE_0x915D0E80_1.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 98.00
+newmtl secblock:phong2SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl secblock:scenebackup:Object001SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PCSX2-R4600.EXE_0x6260B404.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl secblock:scenebackup:Object001SG2
+illum 4
+K
