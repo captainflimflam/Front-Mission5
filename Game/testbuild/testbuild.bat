@@ -1,0 +1,1 @@
+psp2run /console:all /log:"testbuild.log" /reboot /fsroot . /elf "testbuild.self"
